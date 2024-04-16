@@ -1,4 +1,4 @@
-# CNN_for_Cifar10<br>
+# CNN for Cifar10<br>
 10クラスの画像データである*Cifar-10*( https://www.cs.toronto.edu/~kriz/cifar.html )の分類用モデルの作成を行った。<br>
 評価指標はaccuracy。NN構築にはKerasのSeaquentialを使用。事前学習モデルは不使用。<br>
 元データに4種類の前処理を施すことでそれぞれについてモデルを作成し、**アンサンブル**を行った。<br>
