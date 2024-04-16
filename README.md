@@ -1,4 +1,4 @@
 # CNN_for_Cifar10<br>
-10クラスの画像データである**Cifar-10( https://www.cs.toronto.edu/~kriz/cifar.html )**の分類用モデルの作成を行った。<br>
+10クラスの画像データである*Cifar-10*( https://www.cs.toronto.edu/~kriz/cifar.html )の分類用モデルの作成を行った。<br>
 元データに4種類の前処理を施すことでそれぞれについてモデルを作成し、**アンサンブル**を行った。<br>
 さらに、学習用データについては水平反転や小回転による**データ拡張**を行い、学習精度の向上を目指した。<br>
