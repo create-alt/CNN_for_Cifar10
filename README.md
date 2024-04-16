@@ -7,5 +7,6 @@
 
 暫定精度：84.21%<br>
 
-課題：dropoutとBatchNormalizationの挿入位置。dropoutは全結合の前のみ かつ　BatchNormalizationの後　といった調整が必要とみられる。<br>
-（参考： https://qiita.com/fkxyz1224/items/c38a18741ebb88ea5fa2 ）
+課題：dropoutとBatchNormalizationの挿入位置。<br>
+      dropoutは全結合の前のみ かつ　BatchNormalizationの後　といった調整が必要とみられる。<br>
+     （参考： https://qiita.com/fkxyz1224/items/c38a18741ebb88ea5fa2 ）
